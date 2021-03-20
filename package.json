@@ -1,5 +1,5 @@
 {
-  "name": "conference",
+  "name": "conferece-app",
   "version": "1.0.0",
   "description": "This is the start to all the amazing things",
   "main": "index.js",
@@ -20,5 +20,13 @@
     "eslint": "^5.15.2",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buggyCoder007/furry-goggles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buggyCoder007/furry-goggles/issues"
+  },
+  "homepage": "https://github.com/buggyCoder007/furry-goggles#readme"
 }
