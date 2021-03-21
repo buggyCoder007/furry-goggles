@@ -2,6 +2,6 @@
 .env
 /node_modules
 npm-debug.log
-# .DS_Store
+.DS_Store
 /*.env
 package-lock.json
