@@ -14,7 +14,7 @@ module.exports = (param) => {
       const results = await Promise.all(promises);
 
       return res.render('speakers', {
-        page: 'All Speakers',
+        page: 'All Artists',
         speakerslist: results[0],
         artwork: results[1],
       });
